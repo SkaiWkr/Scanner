@@ -20,20 +20,18 @@ A comprehensive Python-based security tool designed to detect potential keylogge
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/keylogger-detector
-cd keylogger-detector
-pip install -r requirements.txt
+git clone https://github.com/SkaiWkr/Scanner
+cd Scanner
 ```
 
 ### Usage
 ```bash
-python keylogger_detector.py
+python scanner.py
 ```
 
-### Creating Executable
+### Executable
 ```bash
-pip install pyinstaller
-pyinstaller --onefile --name="KeyloggerDetector" keylogger_detector.py
+*#Just download the latest Release and run it as admin#*
 ```
 
 ## 📊 Detection Methods
