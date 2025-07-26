@@ -107,9 +107,8 @@ Computer Science & Cybersecurity Student
 
 ## 🔗 Connect
 
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername]
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/sigmandal]
+- GitHub: [@SkaiWkr]
 
 ---
 
